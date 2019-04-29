@@ -1,4 +1,4 @@
-# IonicNativeFileChooser
+# IonicNativeFileChooser / giampieer24
 An example of using the native input type="file" chooser
 
 This should work in all thee main scenarios...
